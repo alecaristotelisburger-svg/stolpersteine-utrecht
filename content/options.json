@@ -1,0 +1,147 @@
+{
+ "software_name": {
+  "desc": "Softwarenaam",
+  "readonly": true,
+  "value": "WordPress"
+ },
+ "software_version": {
+  "desc": "Softwareversie",
+  "readonly": true,
+  "value": "7.1.4"
+ },
+ "blog_url": {
+  "desc": "WordPress adres (URL)",
+  "readonly": true,
+  "value": "https://stolpersteine-utrecht.nl"
+ },
+ "home_url": {
+  "desc": "Site adres (URL)",
+  "readonly": true,
+  "value": "https://stolpersteine-utrecht.nl"
+ },
+ "login_url": {
+  "desc": "Login adres (URL)",
+  "readonly": true,
+  "value": "https://stolpersteine-utrecht.nl/wp-login.php"
+ },
+ "admin_url": {
+  "desc": "De URL naar het beheergebied",
+  "readonly": true,
+  "value": "https://stolpersteine-utrecht.nl/wp-admin/"
+ },
+ "image_default_link_type": {
+  "desc": "Standaard link type voor afbeelding",
+  "readonly": true,
+  "value": "none"
+ },
+ "image_default_size": {
+  "desc": "Standaard afbeelding formaat",
+  "readonly": true,
+  "value": ""
+ },
+ "image_default_align": {
+  "desc": "Standaard uitlijning afbeelding",
+  "readonly": true,
+  "value": ""
+ },
+ "template": {
+  "desc": "Template",
+  "readonly": true,
+  "value": "astra"
+ },
+ "stylesheet": {
+  "desc": "Stylesheet",
+  "readonly": true,
+  "value": "astra"
+ },
+ "post_thumbnail": {
+  "desc": "Bericht thumbnail",
+  "readonly": true,
+  "value": true
+ },
+ "time_zone": {
+  "desc": "Tijdzone",
+  "readonly": false,
+  "value": "2"
+ },
+ "blog_title": {
+  "desc": "Site titel",
+  "readonly": false,
+  "value": "stolpersteine-utrecht.nl"
+ },
+ "blog_tagline": {
+  "desc": "Site slogan",
+  "readonly": false,
+  "value": "Gegevens met betrekking tot Stolpersteine / Struikelstenen in Utrecht"
+ },
+ "date_format": {
+  "desc": "Datumnotatie",
+  "readonly": false,
+  "value": "j F Y"
+ },
+ "time_format": {
+  "desc": "Tijdnotatie",
+  "readonly": false,
+  "value": "H:i"
+ },
+ "users_can_register": {
+  "desc": "Registratie nieuwe gebruikers toestaan",
+  "readonly": false,
+  "value": "0"
+ },
+ "thumbnail_size_w": {
+  "desc": "Thumbnail breedte",
+  "readonly": false,
+  "value": "150"
+ },
+ "thumbnail_size_h": {
+  "desc": "Thumbnail hoogte",
+  "readonly": false,
+  "value": "150"
+ },
+ "thumbnail_crop": {
+  "desc": "Thumbnail bijsnijden naar exacte afmetingen",
+  "readonly": false,
+  "value": "1"
+ },
+ "medium_size_w": {
+  "desc": "Medium grootte afbeeldingbreedte",
+  "readonly": false,
+  "value": "300"
+ },
+ "medium_size_h": {
+  "desc": "Medium grootte afbeeldingshoogte",
+  "readonly": false,
+  "value": "300"
+ },
+ "medium_large_size_w": {
+  "desc": "Medium-grote afbeeldingsbreedte",
+  "readonly": false,
+  "value": "768"
+ },
+ "medium_large_size_h": {
+  "desc": "Medium-grote afbeeldingshoogte",
+  "readonly": false,
+  "value": "0"
+ },
+ "large_size_w": {
+  "desc": "Breedte grote afbeeldingen",
+  "readonly": false,
+  "value": "1024"
+ },
+ "large_size_h": {
+  "desc": "Hoogte grote afbeelding",
+  "readonly": false,
+  "value": "1024"
+ },
+ "default_comment_status": {
+  "desc": "Toestaan dat mensen reacties indienen op nieuwe berichten.",
+  "readonly": false,
+  "value": "open"
+ },
+ "default_ping_status": {
+  "desc": "Sta link meldingen van andere blogs (pingbacks en trackbacks) op nieuwe berichten toe.",
+  "readonly": false,
+  "value": "open"
+ }
+}

@@ -1,0 +1,13 @@
+Back-up stolpersteine-utrecht.nl — 13 november 2026
+
+content/   Alle pagina's (ook concepten), Elementor-sjablonen, header/footer,
+           menu's, categorieën, site-instellingen en de mediagegevens (JSON).
+html/      Elke gepubliceerde pagina zoals die er op 13-11-2026 uitzag.
+media/     De volledige mediabibliotheek, plus afbeeldingen, lettertypen en
+           Elementor-bestanden uit wp-content/uploads die op de site worden gebruikt.
+assets/    CSS, JavaScript, lettertypen en iconen van thema en plugins.
+site/      robots.txt en sitemaps (alle openbare webadressen).
+MANIFEST.json  Aantallen en meldingen.
+
+Niet inbegrepen: Elementor-opmaakgegevens, plugin- en thema-instellingen,
+gebruikers en de database. Daarvoor: de back-up in Elementor Cloud.

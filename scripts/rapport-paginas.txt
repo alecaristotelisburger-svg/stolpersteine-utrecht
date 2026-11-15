@@ -1,0 +1,91 @@
++ ester-sara-choczner (persoon): kop="Ester Rechter- Choczner" blokken=5 galerij=0 achtergrond=ja
++ salomon-choczner-2 (persoon): kop="Salomon Choczner" blokken=3 galerij=0 achtergrond=ja
++ mechel-rechter (persoon): kop="Mechel Rechter" blokken=5 galerij=0 achtergrond=ja
+  ! geen lokale media voor https://stolpersteine-utrecht.nl/wp-content/plugins/elementor/assets/images/placeholder.png
++ bernard-rechter-2 (persoon): kop="Bernard Rechter" blokken=5 galerij=0 achtergrond=ja
++ beila-kluger (persoon): kop="Beila Rechter – Kluger" blokken=4 galerij=0 achtergrond=ja
++ dora-pawliger (persoon): kop="Dora Choczner-Pawliger" blokken=3 galerij=0 achtergrond=ja
++ ludwig-f-simon (persoon): kop="Ludwig Ferdinand Simon" blokken=3 galerij=0 achtergrond=ja
++ raphael-wrazlowskij (persoon): kop="Raphael Wrazlowskij" blokken=4 galerij=0 achtergrond=ja
++ derkje-van-lier (persoon): kop="Derkje van Lier – Wensink" blokken=3 galerij=0 achtergrond=ja
++ josephina-joosten-groen (persoon): kop="Josephina Joosten-Groen" blokken=8 galerij=0 achtergrond=ja
++ kurt-adolf-roeders (persoon): kop="Kurt Roeders" blokken=4 galerij=0 achtergrond=ja
++ antoinette-roeders (persoon): kop="Antoinette Elizabeth Roeders" blokken=4 galerij=0 achtergrond=ja
++ liselotte-selinko (persoon): kop="Liselotte Roeders-Selinko" blokken=5 galerij=0 achtergrond=ja
++ bernard-hes (persoon): kop="Bernard Hes" blokken=3 galerij=0 achtergrond=ja
++ sonja-jacoba-hes (persoon): kop="Sonja Jacoba Hes" blokken=4 galerij=0 achtergrond=ja
++ jacobus-lambertus-hordijk (persoon): kop="Jacobus Lambertus Hordijk" blokken=4 galerij=0 achtergrond=ja
++ helena-v-staveren (persoon): kop="Helena van Staveren" blokken=7 galerij=0 achtergrond=ja
++ wijnschenk-israel (persoon): kop="Israël Wijnschenk" blokken=3 galerij=0 achtergrond=ja
++ wijnschenk-kitty (persoon): kop="Kitty Wijnschenk" blokken=3 galerij=0 achtergrond=ja
++ wilhelmus-wilschut (persoon): kop="Willem Wilschut" blokken=4 galerij=0 achtergrond=ja
++ roosje-van-der-sluijs (persoon): kop="Roosje van der Sluijs" blokken=3 galerij=0 achtergrond=ja
++ lea-van-der-sluijs (persoon): kop="Lea van der Sluijs" blokken=7 galerij=0 achtergrond=ja
+  ~ link naar /nog-niet-klaar/ weggehaald (pagina gaat niet mee)
++ eliazer-horneman (persoon): kop="Eliazer Izaäk Horneman" blokken=5 galerij=0 achtergrond=ja
+  ~ link naar /nog-niet-klaar/ weggehaald (pagina gaat niet mee)
++ jeannetta-horneman-leviticus (persoon): kop="Jeannetta Horneman- Leviticus" blokken=8 galerij=0 achtergrond=ja
++ saartje-horneman-kaufman (persoon): kop="Saartje Horneman Kaufman" blokken=4 galerij=0 achtergrond=ja
+  ~ link naar /nog-niet-klaar/ weggehaald (pagina gaat niet mee)
++ izaak-horneman (persoon): kop="Izaäk Philip Horneman" blokken=9 galerij=0 achtergrond=ja
++ meijerson-arnold-lucien (persoon): kop="Arnold Lucien Meijerson" blokken=4 galerij=0 achtergrond=ja
++ meijerson-alfred-jacques (persoon): kop="Alfred Jacques Meijerson" blokken=4 galerij=0 achtergrond=ja
++ hortense-evaline-meijerson (persoon): kop="Hortense Evaline Meijerson" blokken=4 galerij=0 achtergrond=ja
++ johanna-rosalia-meijerson-cohen (persoon): kop="Johanna Rosalia Meijerson – Cohen" blokken=4 galerij=0 achtergrond=ja
++ straus-joseph (persoon): kop="Joseph Straus" blokken=10 galerij=0 achtergrond=ja
++ straus-barend (persoon): kop="Barend Straus" blokken=9 galerij=0 achtergrond=ja
+  ~ kop uit paginatitel: "Here lived trailer"
++ here-lived-trailer (video): kop="Here lived trailer" blokken=2 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Stolpersteine: The worlds largest memorial"
++ stolpersteine-the-worlds-largest-memorial (video): kop="Stolpersteine: The worlds largest memorial" blokken=1 galerij=0 achtergrond=nee
++ westerbork-materiaal (video): kop="Lesmateriaal in ontwikkeling" blokken=8 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Als of wij drieen"
++ als-of-wij-drieen (video): kop="Als of wij drieen" blokken=5 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Drie meisjes"
++ drie-meisjes (video): kop="Drie meisjes" blokken=1 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Over nic jesse"
++ over-nic-jesse (video): kop="Over nic jesse" blokken=1 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Mieks snackers"
++ mieks-snackers (video): kop="Mieks snackers" blokken=5 galerij=0 achtergrond=ja
+  ~ kop uit paginatitel: "Cohen"
++ cohen (video): kop="Cohen" blokken=3 galerij=0 achtergrond=ja
+  ~ kop uit paginatitel: "Foto Joodse School"
++ 3-2 (video): kop="Foto Joodse School" blokken=1 galerij=0 achtergrond=ja
++ aanvragen (info): kop="Handleiding bij de aanvraag van een of meerdere Stolpersteine" blokken=14 galerij=0 achtergrond=ja
++ bronnen-voor-onderzoek (info): kop="bronnen voor onderzoek" blokken=11 galerij=0 achtergrond=nee
++ colofon (info): kop="colofon" blokken=1 galerij=0 achtergrond=nee
+  ~ weggelaten (het formulier (WPForms) gaat niet mee; contact via e-mail): U kunt onderstaand contact-formulier gebruiken voor uw opmerkingen / vragen
++ contact (info): kop="Contact" blokken=2 galerij=0 achtergrond=nee
++ educatie (info): kop="Educatie" blokken=2 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Eerste"
++ eerste (info): kop="Eerste" blokken=0 galerij=4 achtergrond=nee
+  ~ kop uit paginatitel: "Gelegd"
++ gelegd (info): kop="Gelegd" blokken=0 galerij=0 achtergrond=nee
++ gezocht (info): kop="Gezocht: Vrijwilligers" blokken=12 galerij=0 achtergrond=nee
++ in-de-media (info): kop="In de media" blokken=16 galerij=0 achtergrond=ja
++ komende-leggingen (info): kop="Komende steenleggingen:" blokken=7 galerij=0 achtergrond=ja
+  ~ kop uit paginatitel: "Laatste nieuws"
++ laatste-nieuws (info): kop="Laatste nieuws" blokken=20 galerij=0 achtergrond=nee
++ lesmateriaal (info): kop="Lesmateriaal" blokken=19 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Missie"
++ missie (info): kop="Missie" blokken=1 galerij=0 achtergrond=ja
+  ~ kop uit paginatitel: "Netwerk bijeenkomst 2023"
++ netwerk-bijeenkomst-2023 (info): kop="Netwerk bijeenkomst 2023" blokken=20 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Nieuws"
++ nieuws (info): kop="Nieuws" blokken=0 galerij=0 achtergrond=nee
++ over-ons (info): kop="Over ons" blokken=26 galerij=0 achtergrond=nee
+  ~ link naar /vondellaan-24/ weggehaald (pagina gaat niet mee)
+  ~ link naar /vondellaan-24/ weggehaald (pagina gaat niet mee)
++ recent-gelegd (info): kop="Recent gelegd" blokken=1 galerij=79 achtergrond=ja
++ steun-ons (info): kop="Steun Stichting Stolpersteine Utrecht" blokken=5 galerij=0 achtergrond=nee
+  ~ kop uit paginatitel: "Stolpersteine in Utrecht"
++ stolpersteine-in-utrecht (info): kop="Stolpersteine in Utrecht" blokken=1 galerij=0 achtergrond=nee
++ uit-de-gemeenteraad (info): kop="Uit de gemeenteraad" blokken=3 galerij=0 achtergrond=ja
++ utrecht-1942 (info): kop="Utrecht in 1942 in kort bestek" blokken=7 galerij=0 achtergrond=ja
+  ~ kop uit paginatitel: "Voor wie"
++ voor-wie (info): kop="Voor wie" blokken=5 galerij=4 achtergrond=ja
++ voorbeeld (info): kop="Een voorbeeld" blokken=6 galerij=0 achtergrond=nee
++ wat-zijn (info): kop="Wat zijn stolpersteine?" blokken=1 galerij=0 achtergrond=ja
++ potentiele-adressen (info): kop="Wie woonden er in uw buurt?" blokken=9 galerij=0 achtergrond=ja
+  ~ link naar /vondellaan-24/ weggehaald (pagina gaat niet mee)
++ overzicht.json: 302 rijen, kolommen ['achternaam', 'voornaam', 'locatie stolperstein', 'geg. joodsmonument', 'geg. oorlogsbronnen', 'datum plaatsing']

@@ -1,0 +1,53 @@
++ koekoekstraat-29b: adres="Koekoekstraat 29 B" gelegd=2024-06-28 stenen=2 foto=ja kop=[2 Stolpersteine gelegd / op 28 – 6 – 2024 / adres : Koekoekstraat 29 B / voor:]
++ wittevrouwensingel-96d: adres="Wittevrouwensingel 96 D" gelegd=2024-06-28 stenen=None foto=ja kop=[Stolpersteine gelegd op 28 – 6 – 2024 / adres : Wittevrouwensingel 96 D / voor :]
++ staalstraat-40: adres="Staalstraat 40" gelegd=2024-06-28 stenen=None foto=ja kop=[Stolpersteine gelegd op 28 – 6 – 2024 / adres : Staalstraat 40]
++ weerdsingel-oz-81b: adres="Weerdsingel OZ B" gelegd=2024-06-28 stenen=1 foto=ja kop=[Stolperstein / gelegd op 28 – 6 – 2024 / adres : Weerdsingel OZ B]
+  ~ adres: "Schimmelpennicklaan" → "Schimmelpennincklaan"
++ schimmelpennicklaan-14: adres="Schimmelpennincklaan 14" gelegd=2024-08-28 stenen=1 foto=ja kop=[Stolperstein / gelegd op 28 – 8 – 2024 / adres : Schimmelpennicklaan 14]
++ lombokstraat-18: adres="Lombokstraat 18" gelegd=2024-09-28 stenen=1 foto=ja kop=[Stolperstein / gelegd op 28 – 9 – 2024 / adres : Lombokstraat 18]
++ franshalsstraat-19: adres="Frans Halsstraat 19" gelegd=2024-10-18 stenen=None foto=ja kop=[Stolpersteine / gelegd op 18 – 10 – 2024 / adres: Frans Halsstraat 19 / voor:]
+  ~ adres: "Arntzskade" → "Arntszkade"
++ willem-arntzskade-31-bs: adres="Willem Arntszkade 31 BS" gelegd=2024-10-18 stenen=None foto=ja kop=[Stolpersteine / gelegd op 18 – 10 – 2024 / adres: Willem Arntzskade 31 BS / voor:]
++ zaagmolenkade-38: adres="Zaagmolenkade 28" gelegd=2024-11-08 stenen=None foto=ja kop=[Stolpersteine / gelegd op 8 – 11 – 2024 / adres: Zaagmolenkade 28 / voor:]
++ justus-van-effenstraat-1: adres="Justus van Effenstraat 1" gelegd=2024-11-30 stenen=None foto=ja kop=[Stolpersteine / gelegd op 30 – 11 – 2024 / adres: Justus van Effenstraat 1 / voor:]
++ springweg-63: adres="Springweg 63" gelegd=2025-03-27 stenen=1 foto=ja kop=[Stolperstein / gelegd op 27 – 3 – 2025 / adres: Springweg 63 / voor:]
++ vrouwjuttenstraat-2: adres="Vrouwjuttenstraat 2" gelegd=2025-03-27 stenen=1 foto=ja kop=[Stolperstein / gelegd op 27 – 3 – 2025 / adres: Vrouwjuttenstraat 2 / voor:]
++ domstraat-31: adres="Domstraat 31" gelegd=2025-02-26 stenen=None foto=ja kop=[Stolpersteine / gelegd op 26 – 2 – 2025 / adres: Domstraat 31 / voor:]
+  ~ coördinaten uit oude Google-kaart (Vossegatsedijk 39)
++ vossegatsedijk-39: adres="Vossegatsedijk 39, Utrecht" gelegd=2025-02-25 stenen=1 foto=ja kop=[Stolperstein / gelegd op 25 – 2 – 2025 / adres: Vossegatsedijk 39, Utrecht / voor:]
++ cartesiusweg-103: adres="Cartesiusweg 103" gelegd=2025-03-09 stenen=1 foto=ja kop=[Stolperstein / gelegd op 9 – 3 – 2025 / adres: Cartesiusweg 103 / voor:]
++ twijnstraat-16-bis: adres="Twijnstraat 16 bis" gelegd=2025-04-16 stenen=6 foto=ja kop=[6 Stolpersteine / gelegd op 16 – 4 – 2025 / adres: Twijnstraat 16 bis / voor:]
++ koningsweg-111: adres="Koningsweg 111" gelegd=2025-05-01 stenen=3 foto=ja kop=[3 Stolpersteine / gelegd op 1 – 5 – 2025 / adres: Koningsweg 111 / voor:]
++ havikstraat-18b: adres="Havikstraat 18B" gelegd=2025-05-15 stenen=5 foto=ja kop=[5 Stolpersteine / gelegd op 15 – 5 – 2025 / adres: Havikstraat 18B / voor:]
++ sparstraat-59: adres="Sparstraat 59" gelegd=2025-05-30 stenen=1 foto=ja kop=[Stolperstein / gelegd op 30 – 5 – 2025 / adres: Sparstraat 59 / voor:]
++ nieuwe-koekoekstraat-81: adres="Nieuwe Koekoekstraat 81" gelegd=2023-03-19 stenen=None EIGEN OPMAAK foto=ja kop=[]
++ adriaan-van-bergenstraat-123: adres="Adriaan van Bergenstraat 123" gelegd=2025-06-01 stenen=1 foto=ja kop=[Stolperstein gelegd op 1-6-2025 / adres : Adriaan van Bergenstraat 123 / voor:]
++ mauritsstraat-105: adres="Mauritsstraat 105" gelegd=2025-03-23 stenen=6 foto=ja kop=[6 Stolpersteine gelegd op / 23 – 3 – 2025 / adres : Mauritsstraat 105 / voor :]
++ bilderdijkstraat-15-bis: adres="Bilderdijkstraat 15 bis" gelegd=2025-06-18 stenen=5 EIGEN OPMAAK foto=ja kop=[]
++ boomstraat-13: adres="Boomstraat 13" gelegd=2025-06-21 stenen=3 EIGEN OPMAAK foto=ja kop=[]
++ molierelaan-8: adres="Molierelaan 8" gelegd=2025-06-22 stenen=3 foto=ja kop=[3 Stolpersteine gelegd op / 22 – 6 – 2025 / adres : Molierelaan 8 / voor :]
++ morelstraat-18: adres="Morelstraat 18" gelegd=2025-08-19 stenen=1 foto=ja kop=[Stolperstein gelegd op / 19 – 8 – 2025 / adres : Morelstraat 18 / voor :]
+  ~ correctie: "foto Doete Rechts" → "foto Doete Regts" (spelfout fotografe)
++ meerndijk-74: adres="Meerndijk 74 , de Meern" gelegd=2025-08-28 stenen=3 foto=ja kop=[3 Stolpersteine gelegd op / 28 – 8 – 2025 / adres : Meerndijk 74 , de Meern / voor :]
+  ~ weggelaten (kopie van de Molierelaan-pagina onder de eigen tekst): 3 Stolpersteine gelegd op | 22 – 6 – 2025 | adres : Molierelaan 8 | voor : | Israel de Jong | Johanna de Jong-Bronkhorst | Henri de Jong | de Stein voor Albert de Jong
+eerder gelegd op 25 – 5 -2020 | lees hier meer (binnenkort beschikbaar)
++ meerndijk-110: adres="Meerndijk 110, de Meern" gelegd=2025-08-28 stenen=3 foto=ja kop=[3 Stolpersteine gelegd op / 28 – 8 – 2025 / adres : Meerndijk 110, de Meern / voor :]
++ bijlhouwerstraat-6: adres="Bijlhouwerstraat 6" gelegd=2025-09-22 stenen=None foto=ja kop=[Stolpersteine gelegd op / 22 – 9 – 2025 / adres : Bijlhouwerstraat 6 / voor :]
++ kievitdwarsstraat-29: adres="Kievitdwarsstraat 29" gelegd=2025-11-16 stenen=None foto=ja kop=[Stolpersteine gelegd op / 16 – 11 – 2025 / adres : Kievitdwarsstraat 29 / voor :]
+  ~ adres: "Heicopperkade" → "Heijcopperkade"
++ heijcopperkade-5-6: adres="Heijcopperkade 5-6" gelegd=2026-03-25 stenen=1 foto=ja kop=[Stolperstein gelegd op / 25 – 3 – 2026 / adres : Heicopperkade 5-6 / voor :]
++ oudwijk-43: adres="Oudwijk 43" gelegd=2026-03-25 stenen=None foto=ja kop=[Stolpersteine gelegd op / 25 – 3 – 2026 / adres : Oudwijk 43 / voor :]
++ justus-van-effenstraat-13-13bis: adres="Justus van Effenstraat 13" gelegd=2026-03-28 stenen=None foto=ja kop=[Stolpersteine gelegd op / 28 – 3 – 2026 / adres : Justus van Effenstraat 13 / voor :]
++ stadhouderslaan-29: adres="Stadhouderslaan 29" gelegd=2026-04-10 stenen=1 foto=ja kop=[Stolperstein gelegd op / 10 – 4 – 2026 / adres : Stadhouderslaan 29 / voor :]
++ beverstraat-49: adres="Beverstraat 49" gelegd=2026-04-12 stenen=1 foto=ja kop=[Stolperstein gelegd op / 12 – 4 – 2026 / adres : Beverstraat 49 / voor :]
++ croeselaan-235: adres="Croeselaan 235" gelegd=2026-04-17 stenen=None foto=ja kop=[Stolpersteine gelegd op / 17 – 4 – 2026 / adres : Croeselaan 235 / voor :]
++ domplein-29: adres="Domplein 29" gelegd=2025-03-21 stenen=None EIGEN OPMAAK foto=nee kop=[]
++ dieperinklaan-19: adres="Dieperinklaan 19" gelegd=2026-04-25 stenen=1 foto=ja kop=[Stolperstein gelegd op / 25 – 4 – 2026 / adres : Dieperinklaan 19 / voor :]
+= leliestraat-50-bis: handmatig bestand, overgeslagen
+= voorstraat-1: handmatig bestand, overgeslagen
++ ambachtstraat-2: adres="Ambachtstraat 2" gelegd=2026-05-28 stenen=1 foto=nee kop=[Stolperstein gelegd op / 28 – 5 – 2026 / adres : Ambachtstraat 2 / voor :]
++ kastanjestraat-6: adres="Kastanjestraat 6" gelegd=2026-06-24 stenen=None foto=ja kop=[Stolpersteine gelegd op / 24- 6 – 2026 / adres : Kastanjestraat 6 / voor :]
++ nieuwe-gracht-92: adres="Nieuwegracht 92" gelegd=2010-04-08 stenen=None EIGEN OPMAAK foto=ja kop=[]
++ julianaweg-22-utrecht: adres="Julianaweg 22 Utrecht" gelegd=2011-04-28 stenen=None EIGEN OPMAAK foto=ja kop=[]
++ amsterdamsestraatweg-313: adres="Amsterdamsestraatweg 313" gelegd=2023-11-23 stenen=None EIGEN OPMAAK foto=ja kop=[]
++ obrechtstraat-64: adres="Obrechtstraat 64" gelegd=2023-06-30 stenen=None EIGEN OPMAAK foto=ja kop=[]

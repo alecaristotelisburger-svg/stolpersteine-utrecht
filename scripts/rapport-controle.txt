@@ -1,0 +1,76 @@
+=== A. Foto's komen uit de eigen bronpagina (omzetcontrole)
+=== B. Bestandsnaam/mediatitel van foto past bij de pagina
+B! amsterdamsestraatweg-313: foto "crevelden.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! kastanjestraat-6: foto "Gedenkstenen-tussen-bloemen-en-schaduwen.png" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! kievitdwarsstraat-29: foto "vondellaan-24-legging-2048x1536.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! mauritsstraat-105: foto "collage.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! meerndijk-74: foto "julichs-achtergrond-1024x576.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! morelstraat-18: foto "gelegde-stein-scaled.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! staalstraat-40: foto "staalstrt-40.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+A? voorstraat-1: legging-voorstraat-1.jpg niet terug te vinden in de bronpagina (samengevoegd of met de hand toegevoegd?)
+B! wittevrouwensingel-96d: foto "staalstraat-40.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+B! josephina-joosten-groen: foto "schoutenstraatstenen.jpg" (titel: "") — geen naam/adres uit de foto komt voor op de pagina
+   (1 meldingen bij A)
+
+=== C. Linktekst past bij doel (Joods Monument, Oorlogsbronnen e.d.)
+C? havikstraat-18b: gedeeltelijke overeenkomst "MARCUS WEISZ (1899)" → manfred-moses-israel-weisz
+C? havikstraat-18b: gedeeltelijke overeenkomst "EDITH WEISZ (1929)" → edith-weiss
+C? havikstraat-18b: gedeeltelijke overeenkomst "MANFRED MOZES WEISZ (18-2-1943)" → manfred-moses-israel-weisz
+C! nieuwe-gracht-92: linktekst "70 kinderen en hun verzorgers" → https://www.joodsmonument.nl/nl/page/41023/centraal-israelitisch-weeshuis
+C? nieuwe-gracht-92: gedeeltelijke overeenkomst "Judik Themans-Simons" → judikje-themans-simons
+C! twijnstraat-16-bis: linktekst "lees hier meer" → https://www.stolpersteineinenomdetwijnstraat.com/ludwig-dannheisser-johanna-dannheisserbloch-1-1
+C! antoinette-roeders: linktekst "Prins Hendriklaan 91 Utrecht" → https://www.joodsmonument.nl/nl/page/121679/antoinette-elizabeth-roeders
+C! cohen: linktekst "Pelmolenplantsoen 6 Utrecht" → https://www.stolpersteineinenomdetwijnstraat.com/ernst-julius-cohen
+C! lesmateriaal: linktekst "Project ‘Wordt Gemist’ (JCK)" → https://www.joodsmonument.nl/nl/page/622523/samen-herdenken-we-de-holocaust
+C? nieuws: gedeeltelijke overeenkomst "Utrechtse verzetsheldin Truus van Lier op honderdste geboortedag geëerd met plaquette en Stolpersteine" → utrechtse-verzetsheldin-truus-van-lier-op-honderste-geboortedag-geeerd-met-plaquette-en-stolpersteine
+C? potentiele-adressen: gedeeltelijke overeenkomst "Uitleg over het zoeken op deze website" → zo-werkt-de-website
+C? stolpersteine-in-utrecht: gedeeltelijke overeenkomst "Gunther Demnig" → Gunter_Demnig
+C! straus-joseph: linktekst "Steenweg 27 Utrecht" → https://www.joodsmonument.nl/nl/page/121558/joseph-straus
+
+=== D. Galerijfoto past bij de pagina waar hij naar linkt
+D! recent-gelegd: foto "marta-schwarzbart.jpg" (alt "marta schwarzbart") → /mauritsstraat-105/: naam komt niet voor op die pagina
+D! recent-gelegd: foto "blanco_struikelsteen.png" (alt "blanco_struikelsteen") → /havikstraat-18b/: naam komt niet voor op die pagina
+D? recent-gelegd: albert-de-jong.jpg → /molierelaan-8/ | datum galerij "gelegd: 25 - 5 - 2020\nherplaatst:\n22 - 6 - 2025" ≠ gelegd 2025-06-22
+D? recent-gelegd: cornelis-van-veen.jpg → /heijcopperkade-5-6/ | datum galerij "gelegd: 21 - 3 - 2026" ≠ gelegd 2026-03-25
+D? recent-gelegd: rebecca-bing.jpg → /oudwijk-43/ | datum galerij "gelegd: 21 - 3 - 2026" ≠ gelegd 2026-03-25
+D? recent-gelegd: frederik-theodor-meijers.jpg → /oudwijk-43/ | datum galerij "gelegd: 21 - 3 - 2026" ≠ gelegd 2026-03-25
+D? recent-gelegd: isaac-cohensius.jpg → /domplein-29/ | datum galerij "gelegd: 4 - 5 - 2026" ≠ gelegd 2025-03-21
+D? recent-gelegd: trui-van-lier.jpg → /domplein-29/ | datum galerij "gelegd: 4 - 5 - 2026" ≠ gelegd 2025-03-21
+D? recent-gelegd: wim-eggink.jpg → /domplein-29/ | datum galerij "gelegd: 4 - 5 - 2026" ≠ gelegd 2025-03-21
+D? recent-gelegd: truus-van-lier.jpg → /domplein-29/ | datum galerij "gelegd: 4 - 5 - 2026" ≠ gelegd 2025-03-21
+D? recent-gelegd: cornelis-van-lier.jpg → /domplein-29/ | datum galerij "gelegd: 4 - 5 - 2026" ≠ gelegd 2025-03-21
+D- eerste: martin-en-leendert-de-jong.jpg linkt extern of nergens heen (https://utrechttimemachine.nl/nl/location/martin-en-leendert-de-jong)
+
+=== E. Overzichtstabel (tot nu toe)
+E- Alma Maria van Leeuwen Boomkamp-Rosé: gjm-link gaat naar adrespagina "biltstraat-142-bis-utrecht" (geen persoon)
+E? Cornelis van Veen: datum tabel 2026-03-21 ≠ gelegd 2026-03-25 op /heijcopperkade-5-6/
+E? Meijers Frederik Theodor: datum tabel 2026-03-21 ≠ gelegd 2026-03-25 op /oudwijk-43/
+E? Rebecca Bing: datum tabel 2026-03-21 ≠ gelegd 2026-03-25 op /oudwijk-43/
+E- Klaartje Groenberg-Joosten: gjm-link gaat naar adrespagina "vondellaan-23-utrecht" (geen persoon)
+E- Simon Groenberg: gjm-link gaat naar adrespagina "vondellaan-23-utrecht" (geen persoon)
+E- Henri De Jong: gjm-link gaat naar adrespagina "molierelaan-8-utrecht" (geen persoon)
+E- Israel De Jong: gjm-link gaat naar adrespagina "molierelaan-8-utrecht" (geen persoon)
+E- Johanna De Jong-Bronkhorst: gjm-link gaat naar adrespagina "molierelaan-8-utrecht" (geen persoon)
+E- Maurits Jacob Marsman: gjm-link gaat naar adrespagina "boomstraat-13-utrecht" (geen persoon)
+E- Mietje Meijer - Marsman: gjm-link gaat naar adrespagina "boomstraat-13-utrecht" (geen persoon)
+E- Wolfram Siegfried Marsman: gjm-link gaat naar adrespagina "boomstraat-13-utrecht" (geen persoon)
+E- Emanuel Samuel Berkelo: gjm-link gaat naar adrespagina "bilderdijkstraat-15-bis-utrecht" (geen persoon)
+E- Jacques Berkelo: gjm-link gaat naar adrespagina "bilderdijkstraat-15-bis-utrecht" (geen persoon)
+E- Mary Ehrenreich: gjm-link gaat naar adrespagina "bilderdijkstraat-15-b-utrecht" (geen persoon)
+E- Rosa Ehrenreich: gjm-link gaat naar adrespagina "bilderdijkstraat-15-b-utrecht" (geen persoon)
+E- Vogeltje Berkelo - Tokkie: gjm-link gaat naar adrespagina "bilderdijkstraat-15-bis-utrecht" (geen persoon)
+E? Isaäc de Vries: datum tabel 2025-05-03 ≠ gelegd 2025-05-01 op /koningsweg-111/
+E? Emanuel 'Max' de Vries: datum tabel 2025-05-02 ≠ gelegd 2025-05-01 op /koningsweg-111/
+E? Helene Bickart: achternaam niet gevonden op /mauritsstraat-105/
+E? Marta Schwarzbart: achternaam niet gevonden op /mauritsstraat-105/
+E? Dientje Noach-Bino: datum tabel 2024-10-25 ≠ gelegd 2024-10-18 op /willem-arntzskade-31-bs/
+E? Lijgia Noach: datum tabel 2024-10-25 ≠ gelegd 2024-10-18 op /willem-arntzskade-31-bs/
+E? Siegmund Noach: datum tabel 2024-10-25 ≠ gelegd 2024-10-18 op /willem-arntzskade-31-bs/
+E! Hermann Jacques Jordan: locatie "Frans Halsstraat 19, 3583 BK, -Utrecht" linkt naar /franshalsstraat-19/
+E! Nanette Jordan-van Witsen: locatie "Frans Halsstraat 19, 3583 BK, -Utrecht" linkt naar /franshalsstraat-19/
+E! Anthoon Gerrard Das: locatie "Schimmelpennincklaan 14, 3571 BH, -Utrecht" linkt naar /schimmelpennicklaan-14/
+E? Froukje van der Hoek: datum tabel 2024-06-30 ≠ gelegd 2024-06-28 op /weerdsingel-oz-81b/
+E- Elisabeth Boasson: gjm-link gaat naar adrespagina "haagstraat-14-bis-utrecht" (geen persoon)
+E- Isodor Stiefel: gjm-link gaat naar adrespagina "predikherenstraat-17-bis-utrecht" (geen persoon)
+E? Catharina Helmina Koperberg: datum tabel 2017-02-15 ≠ gelegd 2025-02-26 op /domstraat-31/
+E? Ella Julie Koperberg: datum tabel 2017-02-15 ≠ gelegd 2025-02-26 op /domstraat-31/
